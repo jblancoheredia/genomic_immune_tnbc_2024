@@ -13,7 +13,7 @@ R version >= 4.0
 Python >= 3.10
 Jupyter Server >= 2.10.1 
 
-R packages: "ggplot2", "ggpubr", "dplyr", "ggthemes", "pheatmap", "ggupset", "reshape2", "lemon", "tidyverse", "corrplot", "cluster", "Biobase", "qvalue", “Seurat”, “fishplot” and “mutationtimer”, "corrplot", "data.table", "grid", "RColorBrewer"
+R packages: "ggplot2", "ggpubr", "dplyr", "ggthemes", "pheatmap", "ggupset", "reshape2", "lemon", "tidyverse", "corrplot", "cluster", "Biobase", "qvalue", “Seurat”, “fishplot” and “mutationtimer”, "corrplot", "data.table", "grid", "RColorBrewer", "clonevol"
 
 Python packages: "pandas", "numpy", "comut", "matplotlib", "palettable"
 
